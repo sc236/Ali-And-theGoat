@@ -10,9 +10,17 @@ body{
     width: 70px;
 }
 
+
 .p1{
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "slash";
     font-size: 12px;
+ 
     
-    
+}
+.p2{
+    text-align: left;
+}
+
+.redsokoto{
+    width: 70px;
 }
