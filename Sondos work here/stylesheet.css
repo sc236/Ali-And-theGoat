@@ -1,26 +1,36 @@
 body{
-    background: #fff333;
-    text-align: center;
+    background: rgb(255,215,0);
+
 }
 
+#left{
+float: left;
+width:40%;
+font-family: sans-serif;
+font-size: 14px;
+padding: 10px;
+  
+}
 .ali{
     width: 300px;
+   
 }
+
 .berzerk{
-    width: 70px;
+    width: 100px;
+    text-align: right;
 }
 
+.right{
+  float:right;
+width: 100px;
 
-.p1{
-    font-family: "slash";
-    font-size: 12px;
- 
+}
+.redsokoto{
+    width: 100px;
     
 }
 .p2{
-    text-align: left;
-}
-
-.redsokoto{
-    width: 70px;
+    color: dimgray;
+    font-family: slash;
 }
